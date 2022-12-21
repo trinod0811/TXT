@@ -1,1 +1,10 @@
-
+id: 1
+title: The placeholder is overlapped the entering text in the search field
+priority: Medium
+Severity:Minor
+description:The placeholder is overlapped the entering text in the search field on the main page
+STR": 1. Open main page; 2. Enter text in the search field; 3. Pay attantion on the field
+Actual result: The placeholder is overlapped the entering text in the search field
+Expected result: The search request is displayed in the search field
+Attacment: file.jpg
+ 

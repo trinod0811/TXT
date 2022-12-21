@@ -1,0 +1,6 @@
+like movie:Avatar
+like series:-
+like food:cheese
+like season:summer
+like contry:France
+

@@ -1,0 +1,5 @@
+name Natali
+surname Tarasova
+Age 38
+Animals 0
+Salary 1000
